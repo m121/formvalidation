@@ -1,0 +1,14 @@
+{
+  "name": "form_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "browser-sync start --server --files   **/*.html"
+  },
+  "dependencies": {
+    "bootstrap": "3",
+    "browser-sync": "^2.26.7",
+    "prettier": "^1.19.1"
+  }
+}
